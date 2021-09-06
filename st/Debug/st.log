@@ -1,0 +1,5 @@
+﻿  main.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\user\Downloads\슈팅\슈팅 조재훈\슈팅\st\main.cpp(79,39): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\user\Downloads\슈팅\슈팅 조재훈\슈팅\st\main.cpp(84,41): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+  st.vcxproj -> C:\Users\user\Downloads\슈팅\슈팅 조재훈\슈팅\Debug\st.exe
